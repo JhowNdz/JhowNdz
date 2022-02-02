@@ -1,6 +1,6 @@
 <div align="center" style="margin-top: 25px">
   <p style="margin-top: 25px; text-align: center">Bem-vindo ao meu GITHUB...
-  <br>
+  <br> me chamo Vinicius, tenho 14 e estou estudando para ser GameDev
   <br>Sinta-se à vontade para viajar pelos meus repositórios...
 </p>  
 
